@@ -8,5 +8,6 @@ namespace WindowsFormsApp4.Models
 {
     internal class User
     {
-    }
+        public int MSSV {  get; set; }
+        }
 }
